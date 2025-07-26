@@ -1,0 +1,31 @@
+MASTER TRADING SYSTEM ANALYSIS REPORT
+==================================================
+
+Analysis Date: 2025-07-26 19:52:01
+Total Stocks Analyzed: 344
+
+SYSTEM WEIGHTS:
+---------------
+Fundamentals: 35%
+Trends/Technical: 35%
+Valuation: 30%
+
+SIGNAL DISTRIBUTION:
+--------------------
+HOLD: 344
+
+AVERAGE SCORES BY SYSTEM:
+------------------------------
+Fundamentals: 59.8
+Trends: 47.3
+Valuation: 61.2
+Composite: 55.8
+
+
+RISK MANAGEMENT CONFIGURATION:
+-----------------------------------
+Max Portfolio Risk: 75%
+Cash Reserve: 25%
+Stop Loss: 15%
+Take Profit: 30%
+Max Positions: 20
